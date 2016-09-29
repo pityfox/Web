@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "liste.dtd">
+<list>
+	<recipe>
+		<author>Monsieur Poulpe</author>
+		<recipe_name>Coulis de </recipe_name>
+		<meal>Dinner
+			<course>Dessert</course>
+		</meal>
+		<ingredients>
+			<item quantity="2/3 C" type="butter" />
+			<item quantity="2/3 C" type="butter" />
+			<item quantity="2/3 C" type="butter" />
+			<item quantity="2/3 C" type="butter" />
+			<item quantity="2/3 C" type="butter" />
+			<item quantity="2/3 C" type="butter" />
+			<item quantity="2/3 C" type="butter" />
+		</ingredients>
+		<directions totaltime="50min">
+			BLAB LABLA BLAB LBA LAB LLFALFBAZL BFALB FALBG zeBG zek bgzej g
+			zegghjze gi z, jkzj giore gre
+			gerlgjehgjgerkg,erl
+		</directions>
+	</recipe>
+</list>
