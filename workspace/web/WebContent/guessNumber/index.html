@@ -6,9 +6,16 @@
 
 </head>
 <body>
-
-
-
-<script src="guessNumber.js"></script>
+	<h1>Deviner un nombre entre 0 et 100</h1>
+	<label for="guess">Deviner :</label>
+	<input name="guess" type="text" />
+	<button id="button" type="button" onclick="guess();">Go!</button>
+	<br>
+	<br>
+	<label for="tries">Essais :</label>
+	<input name="tries" type="text" value="5" disabled />
+	<h2 id="reponse"></h2>
+ 
+	<script src="guessNumber.js"></script>
 </body>
 </html>
